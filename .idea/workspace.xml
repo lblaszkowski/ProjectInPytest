@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db2af243-fd4d-4db6-b200-fd81ee8aac3b" name="Default Changelist" comment="" />
+    <list default="true" id="db2af243-fd4d-4db6-b200-fd81ee8aac3b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Search_hotel.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_Search_hotel.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +16,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_Search_hotel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,7 +57,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -63,6 +68,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,12 +123,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test_Search_hotel_py - 2019.10.21 at 01h 03m 03s.xml">
-      <configuration name="test_Search_hotel.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="test_Search_hotel_py - 2019.10.21 at 01h 04m 08s.xml">
-      <configuration name="test_Search_hotel.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="test_Search_hotel_py - 2019.10.21 at 01h 05m 08s.xml">
       <configuration name="test_Search_hotel.py" configurationId="tests" />
     </history-entry>
@@ -147,12 +147,18 @@
     <history-entry file="test_Search_hotel_py - 2019.10.21 at 22h 16m 07s.xml">
       <configuration name="test_Search_hotel.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="test_Search_hotel_py - 2019.10.21 at 23h 19m 57s.xml">
+      <configuration name="test_Search_hotel.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="test_Search_hotel_py - 2019.10.22 at 01h 22m 53s.xml">
+      <configuration name="test_Search_hotel.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -174,8 +180,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test_Search_hotel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

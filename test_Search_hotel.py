@@ -11,17 +11,16 @@ driver.find_element_by_xpath("//span[text()='Dubai']").click()
 # driver.find_element_by_name("checkin").send_keys("22/10/2019")
 # driver.find_element_by_name("checkout").send_keys("29/10/2019")
 driver.find_element_by_name("checkin").click()
-# druga metoda, ale mi nie działa
+# driver.find_element_by_xpath("//td[@class='day ' and text()='23']").click()
+driver.find_element_by_xpath("//td[@class='day  active' and text()='23']").click()
+# print(len(driver.find_elements_by_xpath("//td[@class='day ' and text()='29']")))
+# driver.find_element_by_xpath("//td[@class='day ' and text()='29']")
+elementy = driver.find_element_by_xpath("//td[@class='day ' and text()='29']")
+for element in elementy:
+    if element.is_displayed():
+        element.click()
+        break
 
-driver.find_element_by_xpath("//td[@class='active' and text()='22']").click()
-# driver.find_element_by_xpath("//td[@class='day' and text()='24']").click()
-
-# # print(len(driver.find_element_by_xpath("//td[@class='day' and text()='29']")))
-# element = driver.find_element_by_xpath("//td[@class='day' and text()='29']").click()
-# for element in elementy:
-#     if element.is_displayed():
-#         element.click()
-#         break
 
 driver.close()
 driver.quit()

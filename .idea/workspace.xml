@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db2af243-fd4d-4db6-b200-fd81ee8aac3b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_Search_hotel.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_Search_hotel.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_Search_hotel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+            <state relative-caret-position="255">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -123,46 +122,47 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test_Search_hotel_py - 2019.10.23 at 19h 23m 19s.xml">
-      <configuration name="test_Search_hotel.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="test_Search_hotel_py - 2019.10.23 at 19h 24m 33s.xml">
-      <configuration name="test_Search_hotel.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="test_Search_hotel_py - 2019.10.23 at 19h 27m 58s.xml">
-      <configuration name="test_Search_hotel.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="test_Search_hotel_py - 2019.10.23 at 19h 28m 40s.xml">
-      <configuration name="test_Search_hotel.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="test_Search_hotel_py - 2019.10.23 at 19h 29m 14s.xml">
-      <configuration name="test_Search_hotel.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="test_Search_hotel_py - 2019.10.23 at 19h 30m 07s.xml">
-      <configuration name="test_Search_hotel.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="test_Search_hotel_py - 2019.10.23 at 19h 31m 46s.xml">
-      <configuration name="test_Search_hotel.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="test_Search_hotel_py - 2019.10.23 at 19h 32m 33s.xml">
-      <configuration name="test_Search_hotel.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="test_Search_hotel_py - 2019.10.24 at 16h 30m 37s.xml">
-      <configuration name="test_Search_hotel.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="test_Search_hotel_py - 2019.10.24 at 16h 31m 05s.xml">
+      <configuration name="test_Search_hotel.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="test_Search_hotel_py - 2019.10.25 at 10h 36m 21s.xml">
+      <configuration name="test_Search_hotel.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="test_Search_hotel_py - 2019.10.25 at 10h 38m 29s.xml">
+      <configuration name="test_Search_hotel.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="test_Search_hotel_py - 2019.10.25 at 10h 38m 50s.xml">
+      <configuration name="test_Search_hotel.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="test_Search_hotel_py - 2019.10.25 at 10h 40m 29s.xml">
+      <configuration name="test_Search_hotel.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="test_Search_hotel_py - 2019.10.25 at 10h 43m 31s.xml">
+      <configuration name="test_Search_hotel.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="test_Search_hotel_py - 2019.10.25 at 10h 49m 22s.xml">
+      <configuration name="test_Search_hotel.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="test_Search_hotel_py - 2019.10.25 at 10h 50m 11s.xml">
+      <configuration name="test_Search_hotel.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="test_Search_hotel_py - 2019.10.25 at 10h 51m 15s.xml">
+      <configuration name="test_Search_hotel.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="test_Search_hotel_py - 2019.10.25 at 10h 53m 39s.xml">
       <configuration name="test_Search_hotel.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42634562" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42634562" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -179,8 +179,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test_Search_hotel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+        <state relative-caret-position="255">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>

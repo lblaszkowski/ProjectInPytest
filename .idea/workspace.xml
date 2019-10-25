@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_Search_hotel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="17" selection-start-line="17" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="187">
+              <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -57,6 +57,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -68,7 +69,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,12 +123,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test_Search_hotel_py - 2019.10.23 at 19h 20m 31s.xml">
-      <configuration name="test_Search_hotel.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="test_Search_hotel_py - 2019.10.23 at 19h 22m 37s.xml">
-      <configuration name="test_Search_hotel.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="test_Search_hotel_py - 2019.10.23 at 19h 23m 19s.xml">
       <configuration name="test_Search_hotel.py" configurationId="tests" />
     </history-entry>
@@ -153,17 +147,22 @@
     <history-entry file="test_Search_hotel_py - 2019.10.23 at 19h 32m 33s.xml">
       <configuration name="test_Search_hotel.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="test_Search_hotel_py - 2019.10.24 at 16h 30m 37s.xml">
+      <configuration name="test_Search_hotel.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="test_Search_hotel_py - 2019.10.24 at 16h 31m 05s.xml">
+      <configuration name="test_Search_hotel.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42634562" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42634562" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -180,8 +179,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test_Search_hotel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="17" selection-start-line="17" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="187">
+          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
